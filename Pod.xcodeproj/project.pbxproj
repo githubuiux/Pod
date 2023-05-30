@@ -11,6 +11,7 @@
 		2BDE1D4C2A24DCB800BFE9EB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BDE1D4B2A24DCB800BFE9EB /* ContentView.swift */; };
 		2BDE1D4E2A24DCB900BFE9EB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2BDE1D4D2A24DCB900BFE9EB /* Assets.xcassets */; };
 		2BDE1D512A24DCB900BFE9EB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2BDE1D502A24DCB900BFE9EB /* Preview Assets.xcassets */; };
+		2BDE1D582A24E9B600BFE9EB /* ExpandedBottomSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BDE1D572A24E9B600BFE9EB /* ExpandedBottomSheet.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		2BDE1D4B2A24DCB800BFE9EB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2BDE1D4D2A24DCB900BFE9EB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2BDE1D502A24DCB900BFE9EB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2BDE1D572A24E9B600BFE9EB /* ExpandedBottomSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpandedBottomSheet.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				2BDE1D492A24DCB800BFE9EB /* PodApp.swift */,
+				2BDE1D572A24E9B600BFE9EB /* ExpandedBottomSheet.swift */,
 				2BDE1D4B2A24DCB800BFE9EB /* ContentView.swift */,
 				2BDE1D4D2A24DCB900BFE9EB /* Assets.xcassets */,
 				2BDE1D4F2A24DCB900BFE9EB /* Preview Content */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2BDE1D582A24E9B600BFE9EB /* ExpandedBottomSheet.swift in Sources */,
 				2BDE1D4C2A24DCB800BFE9EB /* ContentView.swift in Sources */,
 				2BDE1D4A2A24DCB800BFE9EB /* PodApp.swift in Sources */,
 			);
